@@ -1,7 +1,7 @@
 // First Labour : Heracles vs Nemean Lion
 // use your Figher class here
 
-const Fighter = require("./src/Fighter.js");
+const Fighter = require("./Fighter.js");
 
 const displayScore = (winner, loser) => {
   console.log(
